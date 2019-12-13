@@ -12,6 +12,7 @@ matplotlib and seaborn for Python
 Simply fire up RStudio for trying out your R code, or Spyder for your Python code.
 
 ## Getting help
+For help with Git, Google "Git Help"
 
 ## Contributors
 Contributions and references are included in the source code files.
